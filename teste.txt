@@ -1,1 +1,0 @@
-Arquivo criado para aprender a usar o Git. Alguma coisa aqui. Acrescentando mais assunto nesse arquivo.
